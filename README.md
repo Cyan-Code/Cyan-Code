@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Carrión</h1>
+<h1 align="center">🔵 Hi 👋, I'm Luis Carrión 🔵</h1>
 <h3 align="center">A Passionate about web development and technology</h3>
 
 - 🌱 I’m currently learning **Rust and Cpp**
