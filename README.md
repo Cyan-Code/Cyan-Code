@@ -5,11 +5,6 @@
 
 - 📫 How to reach me **lcarrionalvarezn@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/luis carrion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="luis carrion" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
